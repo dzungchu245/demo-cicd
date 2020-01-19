@@ -1,0 +1,43 @@
+2020-01-19 11:22:38,427 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2020-01-19 11:22:38,442 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: Version 3.3 r1808647
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: java.version=1.8.0_25
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: os.name=Mac OS X
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: os.arch=x86_64
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: os.version=10.11.6
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: file.encoding=UTF-8
+2020-01-19 11:22:38,447 INFO o.a.j.JMeter: Max memory     =514850816
+2020-01-19 11:22:38,448 INFO o.a.j.JMeter: Available Processors =8
+2020-01-19 11:22:38,452 INFO o.a.j.JMeter: Default Locale=English (United States)
+2020-01-19 11:22:38,452 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2020-01-19 11:22:38,452 INFO o.a.j.JMeter: JMeterHome=/Users/dzungchu/Documents/4-WORKSPACE/demo-cicd/target/jmeter
+2020-01-19 11:22:38,452 INFO o.a.j.JMeter: user.dir  =/Users/dzungchu/Documents/4-WORKSPACE/demo-cicd/target/jmeter/bin
+2020-01-19 11:22:38,452 INFO o.a.j.JMeter: PWD       =/Users/dzungchu/Documents/4-WORKSPACE/demo-cicd/target/jmeter/bin
+2020-01-19 11:22:38,506 INFO o.a.j.JMeter: IP: 192.168.0.106 Name: dzungchu-mb.local FullName: 192.168.0.106
+2020-01-19 11:22:41,272 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System]
+2020-01-19 11:22:41,278 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-01-19 11:22:41,893 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-01-19 11:22:41,893 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-01-19 11:22:43,023 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2020-01-19 11:22:43,518 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2020-01-19 11:22:43,558 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2020-01-19 11:22:43,595 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-19 11:22:43,595 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-19 11:22:43,595 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-19 11:22:43,595 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-19 11:22:43,595 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-01-19 11:22:43,596 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-01-19 11:22:44,058 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-01-19 11:22:44,059 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/dzungchu/Documents/4-WORKSPACE/demo-cicd/target/jmeter/bin/proxyserver.jks
+2020-01-19 11:22:44,201 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2020-01-19 11:22:44,240 INFO o.a.j.s.FileServer: Default base='/Users/dzungchu/Documents/4-WORKSPACE/demo-cicd/target/jmeter/bin'
+2020-01-19 11:22:44,321 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2020-01-19 11:22:44,321 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2020-01-19 11:22:44,512 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2020-01-19 11:22:44,536 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2020-01-19 11:22:44,686 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-01-19 11:22:44,687 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-01-19 11:22:44,687 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-01-19 11:22:44,687 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
